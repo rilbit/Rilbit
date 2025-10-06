@@ -1,0 +1,267 @@
+{
+  "payments": [
+    {
+      "id": "1759712441455",
+      "transactions": [
+        {
+          "id": "1759753820501",
+          "description": "Gastos del mes",
+          "amount": 4349.48,
+          "date": "2025-11-27T12:00:00.000Z",
+          "isPayment": false,
+          "monthsDeferred": "1"
+        }
+      ],
+      "name": "Hey",
+      "type": "card",
+      "cutoffDay": "25",
+      "paymentDay": "15"
+    },
+    {
+      "id": "1759712471125",
+      "transactions": [
+        {
+          "id": "1759723788328",
+          "description": "Gastos del mes",
+          "amount": 36.75,
+          "date": "2026-11-05T12:00:00.000Z",
+          "isPayment": false,
+          "monthsDeferred": "1"
+        },
+        {
+          "id": "1759723784010",
+          "description": "Gastos del mes",
+          "amount": 74.07,
+          "date": "2026-10-05T12:00:00.000Z",
+          "isPayment": false,
+          "monthsDeferred": "1"
+        },
+        {
+          "id": "1759723773697",
+          "description": "Gastos del mes",
+          "amount": 74.09,
+          "date": "2026-09-05T12:00:00.000Z",
+          "isPayment": false,
+          "monthsDeferred": "1"
+        },
+        {
+          "id": "1759723768664",
+          "description": "Gastos del mes",
+          "amount": 514.51,
+          "date": "2026-08-05T12:00:00.000Z",
+          "isPayment": false,
+          "monthsDeferred": "1"
+        },
+        {
+          "id": "1759723757218",
+          "description": "Gastos del mes",
+          "amount": 2332.85,
+          "date": "2026-07-05T12:00:00.000Z",
+          "isPayment": false,
+          "monthsDeferred": "1"
+        },
+        {
+          "id": "1759723732843",
+          "description": "Gastos del mes",
+          "amount": 2631.75,
+          "date": "2026-06-05T12:00:00.000Z",
+          "isPayment": false,
+          "monthsDeferred": "1"
+        },
+        {
+          "id": "1759723724715",
+          "description": "Gastos del mes",
+          "amount": 2631.78,
+          "date": "2026-05-05T12:00:00.000Z",
+          "isPayment": false,
+          "monthsDeferred": "1"
+        },
+        {
+          "id": "1759723707741",
+          "description": "Gastos del mes",
+          "amount": 2631.75,
+          "date": "2026-04-05T12:00:00.000Z",
+          "isPayment": false,
+          "monthsDeferred": "1"
+        },
+        {
+          "id": "1759723697432",
+          "description": "Gastos del mes",
+          "amount": 2631.78,
+          "date": "2026-03-05T12:00:00.000Z",
+          "isPayment": false,
+          "monthsDeferred": "1"
+        },
+        {
+          "id": "1759723692521",
+          "description": "Gastos del mes",
+          "amount": 2631.76,
+          "date": "2026-02-05T12:00:00.000Z",
+          "isPayment": false,
+          "monthsDeferred": "1"
+        },
+        {
+          "id": "1759723684972",
+          "description": "Gastos del mes",
+          "amount": 2631.79,
+          "date": "2026-01-05T12:00:00.000Z",
+          "isPayment": false,
+          "monthsDeferred": "1"
+        },
+        {
+          "id": "1759723679405",
+          "description": "Gastos del mes",
+          "amount": 2631.76,
+          "date": "2025-12-05T12:00:00.000Z",
+          "isPayment": false,
+          "monthsDeferred": "1"
+        },
+        {
+          "id": "1759723633000",
+          "description": "Gastos del mes ",
+          "amount": 2631.78,
+          "date": "2025-11-05T12:00:00.000Z",
+          "isPayment": false,
+          "monthsDeferred": "1"
+        },
+        {
+          "id": "1759723591831",
+          "description": "Gastos del mes",
+          "amount": 4165.5,
+          "date": "2025-10-05T12:00:00.000Z",
+          "isPayment": false,
+          "monthsDeferred": "1"
+        }
+      ],
+      "name": "Nu",
+      "type": "card",
+      "cutoffDay": "17",
+      "paymentDay": "27"
+    },
+    {
+      "id": "1759712508996",
+      "transactions": [
+        {
+          "id": "1759713998109",
+          "description": "Pago a CFE ",
+          "amount": "1211.40",
+          "date": "2025-10-04T12:00:00.000Z",
+          "monthsDeferred": "12"
+        }
+      ],
+      "name": "Mercado Crédito",
+      "type": "card",
+      "cutoffDay": "6",
+      "paymentDay": "16"
+    },
+    {
+      "id": "1759712552744",
+      "transactions": [],
+      "name": "Nu (Crédito personal)",
+      "type": "loan",
+      "paymentDay": "28",
+      "monthlyAmount": "633.25",
+      "monthsToPay": "16"
+    },
+    {
+      "id": "1759716093086",
+      "transactions": [],
+      "name": "Coop",
+      "type": "loan",
+      "paymentDay": "11",
+      "monthlyAmount": "0",
+      "monthsToPay": "58",
+      "overrides": {
+        "2025-9": 1889.42,
+        "2025-11": 1852.36,
+        "2025-10": 1905.47,
+        "2026-0": 1867.18,
+        "2026-1": 1848.04,
+        "2026-2": 1732.55,
+        "2026-3": 1809.75,
+        "2026-4": 1759.72,
+        "2026-5": 1771.46,
+        "2026-6": 1722.67,
+        "2026-7": 1733.17,
+        "2026-8": 1714.01,
+        "2026-9": 1667.08,
+        "2026-10": 1675.02,
+        "2026-11": 1630.03,
+        "2027-0": 1637.44,
+        "2027-1": 1618.29,
+        "2027-2": 1525.04,
+        "2027-3": 1580,
+        "2027-4": 1537.39,
+        "2027-5": 1541.71,
+        "2027-6": 1500.33,
+        "2027-7": 1503.42,
+        "2027-8": 1484.28,
+        "2027-9": 1444.75,
+        "2027-10": 1445.98,
+        "2027-11": 1407.69,
+        "2028-0": 1407.69,
+        "2028-1": 1388.55,
+        "2028-2": 1334.82,
+        "2028-3": 1350.26,
+        "2028-4": 1315.05,
+        "2028-5": 1311.97,
+        "2028-6": 1278,
+        "2028-7": 1273.68,
+        "2028-8": 1254.53,
+        "2028-9": 1222.42,
+        "2028-10": 1216.25,
+        "2028-11": 1185.36,
+        "2029-0": 1177.95,
+        "2029-1": 1158.8,
+        "2029-2": 1110.01,
+        "2029-3": 1120.51,
+        "2029-4": 1092.72,
+        "2029-5": 1082.22,
+        "2029-6": 1055.67,
+        "2029-7": 1043.93,
+        "2029-8": 1024.79,
+        "2029-9": 1000.08,
+        "2029-10": 986.5,
+        "2029-11": 963.03,
+        "2030-0": 948.2,
+        "2030-1": 929.06,
+        "2030-2": 902.5,
+        "2030-3": 890.77,
+        "2030-4": 870.39,
+        "2030-5": 852.68,
+        "2030-6": 0
+      }
+    },
+    {
+      "id": "1759721850395",
+      "transactions": [],
+      "name": "Yo te presto",
+      "type": "loan",
+      "paymentDay": "23",
+      "monthlyAmount": "3047.17",
+      "monthsToPay": "26",
+      "paidPeriods": [],
+      "overrides": {
+        "2027-10": 0
+      }
+    },
+    {
+      "id": "1759754109576",
+      "transactions": [
+        {
+          "id": "1759754161695",
+          "description": "Gastos del mes",
+          "amount": 4746.46,
+          "date": "2025-10-06T12:00:00.000Z",
+          "isPayment": false,
+          "monthsDeferred": "1"
+        }
+      ],
+      "name": "Hey especial",
+      "type": "card",
+      "cutoffDay": "7",
+      "paymentDay": "15"
+    }
+  ],
+  "payday": 5
+}
