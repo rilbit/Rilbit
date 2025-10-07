@@ -165,7 +165,17 @@
     },
     {
       "id": "1759716093086",
-      "transactions": [],
+      "transactions": [
+        {
+          "id": "1759860408418",
+          "description": "Abono",
+          "amount": -1720,
+          "date": "2025-10-07T18:06:48.418Z",
+          "isPayment": true,
+          "monthsDeferred": 1,
+          "periodKey": "2025-9"
+        }
+      ],
       "name": "Coop",
       "type": "loan",
       "paymentDay": "11",
@@ -262,5 +272,6 @@
       "paymentDay": "15"
     }
   ],
-  "payday": 5
+  "payday": 5,
+  "alertDays": 3
 }
