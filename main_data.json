@@ -170,7 +170,7 @@
       "type": "loan",
       "paymentDay": "11",
       "monthlyAmount": "0",
-      "monthsToPay": "58",
+      "monthsToPay": "57",
       "overrides": {
         "2025-9": 1889.42,
         "2025-11": 1852.36,
