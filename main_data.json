@@ -10,6 +10,14 @@
           "date": "2025-11-27T12:00:00.000Z",
           "isPayment": false,
           "monthsDeferred": "1"
+        },
+        {
+          "id": "1759873504466",
+          "description": "Gastos del mes",
+          "amount": 4746.46,
+          "date": "2025-09-24T12:00:00.000Z",
+          "isPayment": false,
+          "monthsDeferred": "1"
         }
       ],
       "name": "Hey",
@@ -182,7 +190,7 @@
       "monthlyAmount": "0",
       "monthsToPay": "57",
       "overrides": {
-        "2025-9": 1889.42,
+        "2025-9": 0,
         "2025-11": 1852.36,
         "2025-10": 1905.47,
         "2026-0": 1867.18,
@@ -239,7 +247,10 @@
         "2030-3": 890.77,
         "2030-4": 870.39,
         "2030-5": 852.68
-      }
+      },
+      "paidPeriods": [
+        "2025-9"
+      ]
     },
     {
       "id": "1759721850395",
@@ -253,23 +264,6 @@
       "overrides": {
         "2027-10": 0
       }
-    },
-    {
-      "id": "1759754109576",
-      "transactions": [
-        {
-          "id": "1759754161695",
-          "description": "Gastos del mes",
-          "amount": 4746.46,
-          "date": "2025-10-06T12:00:00.000Z",
-          "isPayment": false,
-          "monthsDeferred": "1"
-        }
-      ],
-      "name": "Hey especial",
-      "type": "card",
-      "cutoffDay": "7",
-      "paymentDay": "15"
     }
   ],
   "payday": 5,
