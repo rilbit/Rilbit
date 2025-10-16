@@ -12,18 +12,231 @@
           "monthsDeferred": "1"
         },
         {
+          "id": "1760564647955",
+          "description": "Megacable vía Paypal",
+          "amount": 660,
+          "date": "2025-10-15T12:00:00.000Z",
+          "isPayment": false,
+          "monthsDeferred": "1"
+        },
+        {
+          "id": "1760198159847",
+          "description": "Abono",
+          "amount": -4746.46,
+          "date": "2025-10-11T15:55:59.847Z",
+          "isPayment": true,
+          "monthsDeferred": 1,
+          "periodKey": "2025-9",
+          "appliesToPeriodEnding": "2025-09-26T05:59:59.999Z"
+        },
+        {
+          "id": "1760050636345",
+          "description": "Estación express ",
+          "amount": 100,
+          "date": "2025-10-09T12:00:00.000Z",
+          "isPayment": false,
+          "monthsDeferred": "1"
+        },
+        {
+          "id": "1759978106279",
+          "description": "Transf. Deuda otros",
+          "amount": 5079.12,
+          "date": "2025-10-08T12:00:00.000Z",
+          "isPayment": false,
+          "monthsDeferred": "24"
+        },
+        {
           "id": "1759873504466",
           "description": "Gastos del mes",
           "amount": 4746.46,
           "date": "2025-09-24T12:00:00.000Z",
           "isPayment": false,
           "monthsDeferred": "1"
+        },
+        {
+          "id": "1760567892584",
+          "description": "Mercado pago*juanjosevr ",
+          "amount": 394.51,
+          "date": "2025-09-12T12:00:00.000Z",
+          "isPayment": false,
+          "monthsDeferred": "12"
+        },
+        {
+          "id": "1760567821641",
+          "description": "Mercado pago*juanjosevr ",
+          "amount": 1972.53,
+          "date": "2025-09-08T12:00:00.000Z",
+          "isPayment": false,
+          "monthsDeferred": "12"
+        },
+        {
+          "id": "1760567693258",
+          "description": "Mercado pago *juanjosevr",
+          "amount": 1315.02,
+          "date": "2025-09-01T12:00:00.000Z",
+          "isPayment": false,
+          "monthsDeferred": "12"
+        },
+        {
+          "id": "1760566975603",
+          "description": "Mercado pago*juanjosevr",
+          "amount": 832.73,
+          "date": "2025-08-29T12:00:00.000Z",
+          "isPayment": false,
+          "monthsDeferred": "12"
+        },
+        {
+          "id": "1760566797111",
+          "description": "Mercpago*juanjosevr",
+          "amount": 1120.39,
+          "date": "2025-08-28T12:00:00.000Z",
+          "isPayment": false,
+          "monthsDeferred": "12"
+        },
+        {
+          "id": "1760566737513",
+          "description": "Merpago*pagodetrajeta",
+          "amount": 1117.77,
+          "date": "2025-08-25T12:00:00.000Z",
+          "isPayment": false,
+          "monthsDeferred": "12"
+        },
+        {
+          "id": "1760566689245",
+          "description": "Mercado pago 1 ",
+          "amount": 1431.18,
+          "date": "2025-06-02T12:00:00.000Z",
+          "isPayment": false,
+          "monthsDeferred": "18"
+        },
+        {
+          "id": "1760566650819",
+          "description": "Mercado pago 1 ",
+          "amount": 2408.2,
+          "date": "2025-05-29T12:00:00.000Z",
+          "isPayment": false,
+          "monthsDeferred": "12"
+        },
+        {
+          "id": "1760566607858",
+          "description": "Paypal*Walmart mx",
+          "amount": 3293,
+          "date": "2025-05-27T12:00:00.000Z",
+          "isPayment": false,
+          "monthsDeferred": "18"
+        },
+        {
+          "id": "1760566546054",
+          "description": "Mercado pago 1 ",
+          "amount": 263.77,
+          "date": "2025-04-28T12:00:00.000Z",
+          "isPayment": false,
+          "monthsDeferred": "12"
+        },
+        {
+          "id": "1760566482597",
+          "description": "Mercado pago 1 ",
+          "amount": 1318.86,
+          "date": "2025-04-08T12:00:00.000Z",
+          "isPayment": false,
+          "monthsDeferred": "12"
+        },
+        {
+          "id": "1760566434701",
+          "description": "Mercado pago 1",
+          "amount": 1055.09,
+          "date": "2025-04-07T12:00:00.000Z",
+          "isPayment": false,
+          "monthsDeferred": "12"
+        },
+        {
+          "id": "1760566351453",
+          "description": "Mercado pago 1",
+          "amount": 263.77,
+          "date": "2025-04-01T12:00:00.000Z",
+          "isPayment": false,
+          "monthsDeferred": "12"
+        },
+        {
+          "id": "1760566287805",
+          "description": "Mercado pago 1",
+          "amount": 4287.09,
+          "date": "2025-03-28T12:00:00.000Z",
+          "isPayment": false,
+          "monthsDeferred": "24"
+        },
+        {
+          "id": "1760566208452",
+          "description": "Mercado pago 1",
+          "amount": 6594.32,
+          "date": "2025-03-27T12:00:00.000Z",
+          "isPayment": false,
+          "monthsDeferred": "12"
+        },
+        {
+          "id": "1760377398616",
+          "description": "Mercado pago 1",
+          "amount": 659.43,
+          "date": "2025-03-07T12:00:00.000Z",
+          "isPayment": false,
+          "monthsDeferred": "12"
+        },
+        {
+          "id": "1760377345319",
+          "description": "Mercado pago 1",
+          "amount": 1318.86,
+          "date": "2025-02-27T12:00:00.000Z",
+          "isPayment": false,
+          "monthsDeferred": "12"
+        },
+        {
+          "id": "1760377283951",
+          "description": "Mercado pago 4",
+          "amount": 3872.85,
+          "date": "2025-02-05T12:00:00.000Z",
+          "isPayment": false,
+          "monthsDeferred": "12"
+        },
+        {
+          "id": "1760377235458",
+          "description": "Mercado pago 4",
+          "amount": 645.47,
+          "date": "2024-12-27T12:00:00.000Z",
+          "isPayment": false,
+          "monthsDeferred": "12"
+        },
+        {
+          "id": "1760377147605",
+          "description": "Mercado pago 1",
+          "amount": 582.74,
+          "date": "2024-11-27T12:00:00.000Z",
+          "isPayment": false,
+          "monthsDeferred": "12"
+        },
+        {
+          "id": "1760567929457",
+          "description": "Paypal* bodega Aurrerá en linea ",
+          "amount": 1800,
+          "date": "2025-09-22T12:00:00.000Z",
+          "isPayment": false,
+          "monthsDeferred": "18"
+        },
+        {
+          "id": "1760568887956",
+          "description": "Abono",
+          "amount": -2685.78,
+          "date": "2025-10-15T22:54:47.956Z",
+          "isPayment": true,
+          "monthsDeferred": 1,
+          "periodKey": "2025-9",
+          "appliesToPeriodEnding": "2025-09-26T05:59:59.999Z"
         }
       ],
       "name": "Hey",
       "type": "card",
       "cutoffDay": "25",
-      "paymentDay": "15"
+      "paymentDay": "15",
+      "creditLimit": "47000"
     },
     {
       "id": "1759712471125",
@@ -59,108 +272,56 @@
           "date": "2026-08-05T12:00:00.000Z",
           "isPayment": false,
           "monthsDeferred": "1"
-        },
-        {
-          "id": "1759723757218",
-          "description": "Gastos del mes",
-          "amount": 2332.85,
-          "date": "2026-07-05T12:00:00.000Z",
-          "isPayment": false,
-          "monthsDeferred": "1"
-        },
-        {
-          "id": "1759723732843",
-          "description": "Gastos del mes",
-          "amount": 2631.75,
-          "date": "2026-06-05T12:00:00.000Z",
-          "isPayment": false,
-          "monthsDeferred": "1"
-        },
-        {
-          "id": "1759723724715",
-          "description": "Gastos del mes",
-          "amount": 2631.78,
-          "date": "2026-05-05T12:00:00.000Z",
-          "isPayment": false,
-          "monthsDeferred": "1"
-        },
-        {
-          "id": "1759723707741",
-          "description": "Gastos del mes",
-          "amount": 2631.75,
-          "date": "2026-04-05T12:00:00.000Z",
-          "isPayment": false,
-          "monthsDeferred": "1"
-        },
-        {
-          "id": "1759723697432",
-          "description": "Gastos del mes",
-          "amount": 2631.78,
-          "date": "2026-03-05T12:00:00.000Z",
-          "isPayment": false,
-          "monthsDeferred": "1"
-        },
-        {
-          "id": "1759723692521",
-          "description": "Gastos del mes",
-          "amount": 2631.76,
-          "date": "2026-02-05T12:00:00.000Z",
-          "isPayment": false,
-          "monthsDeferred": "1"
-        },
-        {
-          "id": "1759723684972",
-          "description": "Gastos del mes",
-          "amount": 2631.79,
-          "date": "2026-01-05T12:00:00.000Z",
-          "isPayment": false,
-          "monthsDeferred": "1"
-        },
-        {
-          "id": "1759723679405",
-          "description": "Gastos del mes",
-          "amount": 2631.76,
-          "date": "2025-12-05T12:00:00.000Z",
-          "isPayment": false,
-          "monthsDeferred": "1"
-        },
-        {
-          "id": "1759723633000",
-          "description": "Gastos del mes ",
-          "amount": 2631.78,
-          "date": "2025-11-05T12:00:00.000Z",
-          "isPayment": false,
-          "monthsDeferred": "1"
-        },
-        {
-          "id": "1759723591831",
-          "description": "Gastos del mes",
-          "amount": 4165.5,
-          "date": "2025-10-05T12:00:00.000Z",
-          "isPayment": false,
-          "monthsDeferred": "1"
         }
       ],
       "name": "Nu",
       "type": "card",
       "cutoffDay": "17",
-      "paymentDay": "27"
+      "paymentDay": "27",
+      "creditLimit": "31000"
     },
     {
       "id": "1759712508996",
       "transactions": [
+        {
+          "id": "1760216636963",
+          "description": "Transferencia a Dulce (BBVA)",
+          "amount": 4120.08,
+          "date": "2025-10-11T12:00:00.000Z",
+          "isPayment": false,
+          "monthsDeferred": "12"
+        },
+        {
+          "id": "1760216722828",
+          "description": "Prestamos personales",
+          "amount": 3189.84,
+          "date": "2025-10-11T12:00:00.000Z",
+          "isPayment": false,
+          "monthsDeferred": "12"
+        },
         {
           "id": "1759713998109",
           "description": "Pago a CFE ",
           "amount": "1211.40",
           "date": "2025-10-04T12:00:00.000Z",
           "monthsDeferred": "12"
+        },
+        {
+          "id": "1760389850913",
+          "description": "Abono",
+          "amount": -100.95,
+          "date": "2025-10-13T21:10:50.913Z",
+          "isPayment": true,
+          "monthsDeferred": 1,
+          "periodKey": "2025-9",
+          "appliesToPeriodEnding": "2025-10-07T05:59:59.999Z"
         }
       ],
       "name": "Mercado Crédito",
       "type": "card",
       "cutoffDay": "6",
-      "paymentDay": "16"
+      "paymentDay": "16",
+      "creditLimit": "59790"
     },
     {
       "id": "1759712552744",
@@ -264,8 +425,22 @@
       "overrides": {
         "2027-10": 0
       }
+    },
+    {
+      "id": "1760375262027",
+      "transactions": [],
+      "name": "Préstamo mercado pago",
+      "type": "loan",
+      "paymentDay": "18",
+      "monthlyAmount": "3433",
+      "monthsToPay": "12",
+      "paidPeriods": [],
+      "overrides": {}
     }
   ],
-  "payday": 5,
+  "paymentFrequency": "weekly",
+  "weeklyPayday": 5,
+  "biweeklyDay1": 15,
+  "biweeklyDay2": 30,
   "alertDays": 10
 }
